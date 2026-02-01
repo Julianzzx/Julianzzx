@@ -11,7 +11,6 @@
 - 🔭 Actualmente trabajando en proyectos con **Spring Boot y bases de datos**
 - 🌱 Aprendiendo sobre **arquitectura backend, blockchain y desarrollo web**
 - 👯 Abierto a colaborar en proyectos **educativos, open source o experimentales**
-- 💬 Pregúntame sobre **Java, Spring Boot, estructuras de datos y APIs REST**
 - ⚡ Fun fact: me gusta mezclar programación con videojuegos 🎮
 
 ---
