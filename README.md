@@ -35,13 +35,12 @@
 - Git & GitHub
 - VS Code
 - IntelliJ IDEA
-- Postman
+
+**Learning**
+- Angular & Typescript
 
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianzzx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianzzx&layout=compact&theme=tokyonight)
 
 ⭐ _Thanks for visiting my profile!_
