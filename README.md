@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hi there 👋, I'm Julian
 
-<!--
-**Julianzzx/Julianzzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Backend & Web Enthusiast**  
+🚀 Apasionado por aprender, construir y mejorar aplicaciones reales  
+☕ Amante de Java y el ecosistema Spring Boot  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About me
+
+- 🔭 Actualmente trabajando en proyectos con **Spring Boot y bases de datos**
+- 🌱 Aprendiendo sobre **arquitectura backend, blockchain y desarrollo web**
+- 👯 Abierto a colaborar en proyectos **educativos, open source o experimentales**
+- 💬 Pregúntame sobre **Java, Spring Boot, estructuras de datos y APIs REST**
+- ⚡ Fun fact: me gusta mezclar programación con videojuegos 🎮
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- SQL
+
+**Backend**
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianzzx&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianzzx&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to reach me
+
+- 💼 GitHub: [@Julianzzx](https://github.com/Julianzzx)
+- 📧 Email: *(agrega tu correo aquí)*
+
+---
+
+⭐ _Thanks for visiting my profile!_
