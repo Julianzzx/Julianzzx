@@ -44,13 +44,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianzzx&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianzzx&layout=compact&theme=tokyonight)
 
----
-
-### 📫 How to reach me
-
-- 💼 GitHub: [@Julianzzx](https://github.com/Julianzzx)
-- 📧 Email: *(agrega tu correo aquí)*
-
----
-
 ⭐ _Thanks for visiting my profile!_
