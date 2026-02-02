@@ -20,35 +20,37 @@
 - ⚡ Fun fact: me gusta mezclar programación con videojuegos 🎮
 
 ---
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+  <h1>Focus on:</h1>
+  
+  <div align="center">
+    <h1>Languages</h1>
+    <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="background:#1e1e1e;border-radius:50%;padding:10px;/></p>
+  </div>
+  <div align="center">
+    <h1>Frameworks</h1>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" style="background:#1e1e1e;border-radius:50%;padding:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" style="background:#1e1e1e;border-radius:50%;padding:10px;"/>
+  </div>
 
-**Languages**
-- Java
-- JavaScript
-- SQL
+  <div align="center">
+    <h1>Database</h1>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" style="border-radius:50%; padding:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"        width="50" style="border-radius:50%; padding:10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" style="border-radius:50%; padding:10px"/>
+  </div>
 
-**Frameworks**
-- Spring
-- 
+  <div align="center">
+    <h1>Tools</h1>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" style="border-radius:50%; padding:10px"/> <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" style="border-radius:50%; padding:10px;"/>
+  </div>
 
-**Databases**
-- MySQL
-- MongoDB
-
-**Tools**
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-
-**Learning**
-- Angular & Typescript
-
+  <div align="center">
+    <h1>Learning</h1>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" style="border-radius:50%; padding:10px/>
+  </div>
 ---
 ### 📊 Most Used Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julianzzx&layout=compact&theme=tokyonight&langs_count=20" />
 
-### 📊 GitHub Stats
-
-⭐ _Thanks for visiting my profile!_
+⭐ _Thanks for visiting my profile!
