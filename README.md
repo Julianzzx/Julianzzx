@@ -46,7 +46,7 @@
 - Angular & Typescript
 
 ---
-### 📊 
+### 📊 Most Used Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julianzzx&layout=compact&theme=tokyonight&langs_count=20" />
 
 ### 📊 GitHub Stats
