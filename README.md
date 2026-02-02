@@ -22,8 +22,6 @@
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-  <h1>Focus on:</h1>
-  
   <div align="center">
     <h1>Languages</h1>
     <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="background:#1e1e1e;border-radius:50%;padding:10px;/></p>
