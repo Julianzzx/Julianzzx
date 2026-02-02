@@ -29,10 +29,9 @@
 - JavaScript
 - SQL
 
-**Backend**
-- Spring Boot
-- Spring Data JPA
-- REST APIs
+**Frameworks**
+- Spring
+- 
 
 **Databases**
 - MySQL
@@ -47,6 +46,8 @@
 - Angular & Typescript
 
 ---
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julianzzx&layout=compact&theme=tokyonight" />
 
 ### 📊 GitHub Stats
 
