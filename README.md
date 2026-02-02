@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Julian
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+i'm Julian+👋;Java+%26+Spring+Boot+Developer;Bases+de+datos+%26+Algoritmos;Backend+en+progreso+🚀;Siempre+aprendiendo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Hi+there,+I'm+Julian+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Databases+%26+Algorithms;Backend+in+progress+%F0%9F%9A%80;Always+learning">
 </p>
+
 
 
 💻 **Software Developer | Backend & Web Enthusiast**  
