@@ -44,23 +44,13 @@
 </div>
 
 <div align="center">
-  <h3>Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-       width="50"
-       style="border-radius:50%;padding:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-       width="50"
-       style="border-radius:50%;padding:10px;" />
-</div>
-
-<div align="center">
   <h3>Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        width="50"
        style="border-radius:50%;padding:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
        width="50"
-       style="border-radius:50%;padding:10px;" />
+       style="border-radius:50%;padding:10px;" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
        width="50"
        style="border-radius:50%;padding:10px;" />
@@ -71,12 +61,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
        width="50"
        style="border-radius:50%;padding:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+       width="50"
+       style="border-radius:50%;padding:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+       width="50"
+       style="border-radius:50%;padding:10px;" />
 </div>
 
 ---
 
 ### 📊 Most Used Languages
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julianzzx&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=20" />
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Angel0zzx&show_icons=true&theme=cobalt&title_color=3b82f6&icon_color=60a5fa&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angel0zzx&layout=compact&theme=cobalt&title_color=3b82f6&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
+</div>
 
 ⭐ _Thanks for visiting my profile!_
 
