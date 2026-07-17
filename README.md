@@ -73,7 +73,7 @@
 
 ### 📊 Most Used Languages
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Angel0zzx&show_icons=true&theme=cobalt&title_color=3b82f6&icon_color=60a5fa&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julianzzx&show_icons=true&theme=cobalt&title_color=3b82f6&icon_color=60a5fa&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angel0zzx&layout=compact&theme=cobalt&title_color=3b82f6&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
 </div>
 
